@@ -1,0 +1,7 @@
+{
+  "name": "api-musica",
+  "version": "1.0.0",
+  "dependencies": {
+    "yt-search": "^2.11.1"
+  }
+}
